@@ -1,0 +1,5 @@
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\publish\HideTaskBar.exe
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\publish\HideTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\publish\HideTaskBar.deps.json
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\publish\HideTaskBar.runtimeconfig.json
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\publish\HideTaskBar.pdb

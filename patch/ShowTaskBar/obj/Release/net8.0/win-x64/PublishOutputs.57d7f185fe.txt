@@ -1,0 +1,5 @@
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\publish\ShowTaskBar.exe
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\publish\ShowTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\publish\ShowTaskBar.deps.json
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\publish\ShowTaskBar.runtimeconfig.json
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\publish\ShowTaskBar.pdb

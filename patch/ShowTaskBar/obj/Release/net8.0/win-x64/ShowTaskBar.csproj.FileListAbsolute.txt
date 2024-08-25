@@ -1,0 +1,14 @@
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\ShowTaskBar.exe
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\ShowTaskBar.deps.json
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\ShowTaskBar.runtimeconfig.json
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\ShowTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\bin\Release\net8.0\win-x64\ShowTaskBar.pdb
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.AssemblyInfoInputs.cache
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.AssemblyInfo.cs
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.csproj.CoreCompileInputs.cache
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\refint\ShowTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.pdb
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ShowTaskBar.genruntimeconfig.cache
+C:\Users\ZZL\Desktop\新建文件夹\ShowTaskBar\obj\Release\net8.0\win-x64\ref\ShowTaskBar.dll

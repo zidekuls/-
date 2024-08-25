@@ -1,0 +1,14 @@
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\HideTaskBar.exe
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\HideTaskBar.deps.json
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\HideTaskBar.runtimeconfig.json
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\HideTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\bin\Release\net8.0\win-x64\HideTaskBar.pdb
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.AssemblyInfoInputs.cache
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.AssemblyInfo.cs
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.csproj.CoreCompileInputs.cache
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\refint\HideTaskBar.dll
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.pdb
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\HideTaskBar.genruntimeconfig.cache
+C:\Users\ZZL\Desktop\新建文件夹\HideTaskBar\obj\Release\net8.0\win-x64\ref\HideTaskBar.dll
